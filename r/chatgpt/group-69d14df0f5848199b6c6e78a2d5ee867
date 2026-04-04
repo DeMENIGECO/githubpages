@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Redirect al gruppo ChatGPT</title>
+<script>
+window.location.replace("https://chatgpt.com/gg/v/69d14df0f5848199b6c6e78a2d5ee867?token=GpJhShaCf20OcYh9RL7Viw");
+</script>
+</head>
+
+<body>
+<p>Forse il redirect non ha funzionato. Niente panico:</p>
+<a href="https://chatgpt.com/gg/v/69d14df0f5848199b6c6e78a2d5ee867?token=GpJhShaCf20OcYh9RL7Viw">Click manuale</a>
+</body>
+</html>
